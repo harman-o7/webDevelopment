@@ -1,2 +1,2 @@
 # webDevelopment
-web development class projects
+web development class projects/labs
